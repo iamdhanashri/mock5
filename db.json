@@ -1,0 +1,61 @@
+{
+  "freelancers": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "password",
+      "profession": "Web Developer",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "hourly_rate": 25,
+      "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ItzbDI0AhbD0tWSJ36z3Ih1Eg4sH_p9YAw&usqp=CAU",
+      "isBooked": true
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "password": "password",
+      "profession": "Graphic Designer",
+      "skills": [
+        "Photoshop",
+        "Illustrator"
+      ],
+      "hourly_rate": 30,
+      "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ItzbDI0AhbD0tWSJ36z3Ih1Eg4sH_p9YAw&usqp=CAU",
+      "isBooked": true
+    },
+    {
+      "name": "lokesh",
+      "email": "lokesh@gmail.com",
+      "password": "1234",
+      "profession": "Student",
+      "skills": [
+        "Read",
+        "Write"
+      ],
+      "hourly_rate": "5",
+      "profile_picture": "https://t4.ftcdn.net/jpg/03/22/27/15/360_F_322271599_m6B4XfH1Y2k72n5Kk34Q1KfX7oz3GlQs.jpg",
+      "isBooked": true,
+      "id": 6
+    },
+    {
+      "name": "Dhanashri",
+      "email": "dha@gmail.com",
+      "password": "123",
+      "profession": "Web Developer",
+      "skills": [
+        "React",
+        "HTML"
+      ],
+      "hourly_rate": "10",
+      "profile_picture": "https://cdn3.vectorstock.com/i/1000x1000/63/92/school-girl-cartoon-walking-vector-20296392.jpg",
+      "isBooked": false,
+      "id": 7
+    }
+  ]
+}
